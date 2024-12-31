@@ -61,7 +61,7 @@
             int.TryParse(Console.ReadLine(), out int number);
             Console.WriteLine(SumOfDigits(number));
 
-            Console.WriteLine("hjhghhhhhhhhhhhh");
+           
 
 
         }
